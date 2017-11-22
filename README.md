@@ -1,2 +1,2 @@
 # NexTable-table-booking
-## occupation organizing
+## occupation manegement and organizing
